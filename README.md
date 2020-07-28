@@ -1,9 +1,10 @@
-# RL-Tom-Jerry-hD
-Reinforcement Learning with Tom and Jerry in high-Dimensions
+# Reinforcement Learning with Tom and Jerry in high-Dimensions
+## NMA 2020 Fork
 
-# Mapping Brain Networks - NMA 2020 Project
 
-This project is a part of the Neuromatch Acedemy's summer school in July 2020.
+This project is a part of the tutorials from [Neuromatch Acedemy](https://https://www.neuromatchacademy.org)'s [summer school in July 2020](https://github.com/NeuromatchAcademy/course-content).
+
+
 
 ## Description
 
