@@ -9,6 +9,16 @@ This project is a part of the tutorials from [Neuromatch Acedemy](https://https:
 ## Description
 
 
+## W0D2 - Python Workshop2
+
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLkBQOLLbi18Oi40BY9HyzVlJFHxhph6Gy)
+|   | Run | View |
+| - | --- | ---- |
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D2_PythonWorkshop2/student/W0D2_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D2_PythonWorkshop2/student/W0D2_Tutorial1.ipynb?flush_cache=true) |
+
+
+
+
 <!--
 During a decision making task, a number of brain regions are involved in the processing of sensory information to decision making to motor action. These regions act together in particular networks. We’re aware of the anatomical organisation of these regions but the dynamical interactions among them, is not well established. 
 
