@@ -13,7 +13,7 @@ This project is a part of the tutorials from [Neuromatch Acedemy](https://https:
 
 ## Description
 
-![abc](RL-Tom-Jerry-hD/Tom&Jerry2D.gif)
+![abc](Tom&Jerry2D.gif)
 
 <!--
 During a decision making task, a number of brain regions are involved in the processing of sensory information to decision making to motor action. These regions act together in particular networks. We’re aware of the anatomical organisation of these regions but the dynamical interactions among them, is not well established. 
