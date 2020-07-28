@@ -9,7 +9,7 @@ This project is a part of the tutorials from [Neuromatch Acedemy](https://https:
 <!-- [YouTube Playlist W2D4](https://www.youtube.com/playlist?list=PLkBQOLLbi18Oi40BY9HyzVlJFHxhph6Gy) -->
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amisapta15/RL-Tom-Jerry-hD/blob/Alpha/RL_Tom%26Jerry.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/amisapta15/RL-Tom-Jerry-hD/blob/Alpha/RL_Tom%26Jerry.ipynb?flush_cache=true) |
+| Tom&Jerry Code| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amisapta15/RL-Tom-Jerry-hD/blob/Alpha/RL_Tom%26Jerry.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/amisapta15/RL-Tom-Jerry-hD/blob/Alpha/RL_Tom%26Jerry.ipynb?flush_cache=true) |
 
 ## Description
 
