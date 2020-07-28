@@ -4,7 +4,7 @@
 
 This project is a part of the tutorials from [Neuromatch Acedemy](https://https://www.neuromatchacademy.org)'s [summer school in July 2020](https://github.com/NeuromatchAcademy/course-content).
 
-## NMA 2020 W-2 D-4&5 - Optimal Control & Reinforcement Learning
+NMA 2020 W-2 D-4&5 - Optimal Control & Reinforcement Learning
 
 <!-- [YouTube Playlist W2D4](https://www.youtube.com/playlist?list=PLkBQOLLbi18Oi40BY9HyzVlJFHxhph6Gy) -->
 |   | Run | View |
