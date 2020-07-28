@@ -6,9 +6,10 @@ Reinforcement Learning with Tom and Jerry in high-Dimensions
 This project is a part of the Neuromatch Acedemy's summer school in July 2020.
 
 ## Description
-<!--
+
+<!---
 During a decision making task, a number of brain regions are involved in the processing of sensory information to decision making to motor action. These regions act together in particular networks. We’re aware of the anatomical organisation of these regions but the dynamical interactions among them, is not well established.
--->
+--->
 
 How do the different brain regions interact with one another in terms of functional connectivity? Can we attribute behaviour to large-scale brain wide circuits? Are different networks involved in different tasks? These are some broad questions that we set out to answer.
 
