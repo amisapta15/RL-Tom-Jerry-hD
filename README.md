@@ -1,5 +1,4 @@
 # Reinforcement Learning with Tom and Jerry in high-Dimensions
-## NMA 2020 Fork
 
 
 This project is a part of the tutorials from [Neuromatch Acedemy](https://https://www.neuromatchacademy.org)'s [summer school in July 2020](https://github.com/NeuromatchAcademy/course-content).
